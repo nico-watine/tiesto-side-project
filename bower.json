@@ -1,0 +1,17 @@
+{
+  "name": "tiesto-side-project",
+  "author": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+  ],
+  "description": "Personal mini project for a page about Tiesto",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation-sites": "6.5.3",
+    "motion-ui": "2.0.3"
+  }
+}
