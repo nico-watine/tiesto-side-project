@@ -295,37 +295,37 @@ h6, .h6 {
 
 h1, .h1 {
   font-size: 2rem;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h2, .h2 {
   font-size: 1.625rem;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h3, .h3 {
   font-size: 1.375rem;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h4, .h4 {
   font-size: 1.125rem;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h5, .h5 {
   font-size: 1rem;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h6, .h6 {
   font-size: 0.875rem;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
@@ -7943,6 +7943,9 @@ a:not(.button) {
 
 .text-white-50 {
   color: rgba(255, 255, 255, 0.5) !important; }
+
+.text-red {
+  color: #a12122; }
 
 .text-decoration-none {
   text-decoration: none !important; }
