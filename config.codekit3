@@ -6161,6 +6161,90 @@
 		"oAP": "/build/dist",
 		"oF": 0
 		},
+	"/fonts/compacta-bold/compacta-bold.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/fonts/compacta-bold/compacta-bold-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"/fonts/compacta-bold/compacta-bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta-bold/compacta-bold.otf",
+		"oF": 0
+		},
+	"/fonts/compacta-bold/compacta-bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta-bold/compacta-bold.ttf",
+		"oF": 0
+		},
+	"/fonts/compacta-bold/compacta-bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta-bold/compacta-bold.woff",
+		"oF": 0
+		},
+	"/fonts/compacta-bold/compacta-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta-bold/compacta-bold.woff2",
+		"oF": 0
+		},
+	"/fonts/compacta/compacta.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/fonts/compacta/compacta-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"/fonts/compacta/compacta.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta/compacta.otf",
+		"oF": 0
+		},
+	"/fonts/compacta/compacta.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta/compacta.ttf",
+		"oF": 0
+		},
+	"/fonts/compacta/compacta.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta/compacta.woff",
+		"oF": 0
+		},
+	"/fonts/compacta/compacta.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/compacta/compacta.woff2",
+		"oF": 0
+		},
 	"/gulpfile.babel.js": {
 		"bF": 0,
 		"ft": 64,

@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"CompactaEF-Regular";
+    src:url("compacta.woff2") format("woff2"),url("compacta.woff") format("woff"),url("compacta.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        
