@@ -7886,13 +7886,13 @@ ol.list-upper-roman {
 
 @font-face {
   font-family: 'Compacta';
-  src: url("compacta.woff2") format("woff2"), url("compacta.woff") format("woff"), url("compacta.otf") format("opentype");
+  src: url("/fonts/compacta/compacta.woff2") format("woff2"), url("/fonts/compacta/compacta.woff") format("woff"), url("/fonts/compacta/compacta.otf") format("opentype");
   font-style: normal;
   font-weight: 400; }
 
 @font-face {
-  font-family: 'Compacta Bold';
-  src: url("compacta-bold.woff2") format("woff2"), url("compacta-bold.woff") format("woff"), url("compacta-bold.otf") format("opentype");
+  font-family: 'Compacta';
+  src: url("/fonts/compacta/bold/compacta-bold.woff2") format("woff2"), url("/fonts/compacta/bold/compacta-bold.woff") format("woff"), url("/fonts/compacta/bold/compacta-bold.otf") format("opentype");
   font-style: normal;
   font-weight: 700; }
 
